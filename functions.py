@@ -128,7 +128,7 @@ spilt_bill()'''
                              2.sub
                              3.mul))
     if option==1:
-        print(a+b)
+        print(a+b)-
     elif option==2:
         print(a-b)
     elif option==3:
